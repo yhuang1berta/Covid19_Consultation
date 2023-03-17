@@ -1,0 +1,82 @@
+.header-color {
+  background: #43c6ac; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #191654,
+    #43c6ac
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #191654,
+    #43c6ac
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.header-title {
+  color: white;
+}
+
+.endtext {
+  background-color: black;
+  margin: auto;
+  text-align: center;
+  opacity: 0.7;
+  border-radius: 10px;
+}
+
+.endtext hr {
+  border-top: 3px dotted white;
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+.endtext h1 {
+  font-size: 50px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+.endtext p {
+  color: white;
+  font-size: 30px;
+  padding: 30px;
+  text-align: center;
+}
+
+.end {
+  display: flex;
+  width: 70%;
+  margin: auto;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.end i {
+  color: white;
+  font-size: 5em;
+  padding: 15px;
+  text-align: center;
+}
+.media {
+  background-color: white;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.Link {
+  text-decoration: "none";
+  color: white;
+}
+
+.doctor_dashboard_background {
+  height: 100vh;
+}
+
+.admin_dashboard_background {
+  background: white;
+  overflow: auto;
+  border-radius: 2%;
+  position: relative;
+}

@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.368fc483.chunk.css",
+    "main.js": "/static/js/main.6e470b14.chunk.js",
+    "main.js.map": "/static/js/main.6e470b14.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.00ed32f5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.00ed32f5.js.map",
+    "static/css/2.aafb6394.chunk.css": "/static/css/2.aafb6394.chunk.css",
+    "static/js/2.42946554.chunk.js": "/static/js/2.42946554.chunk.js",
+    "static/js/2.42946554.chunk.js.map": "/static/js/2.42946554.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.baf1878ce19223d9dc7abd28293c2010.js": "/precache-manifest.baf1878ce19223d9dc7abd28293c2010.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.aafb6394.chunk.css.map": "/static/css/2.aafb6394.chunk.css.map",
+    "static/css/main.368fc483.chunk.css.map": "/static/css/main.368fc483.chunk.css.map",
+    "static/js/2.42946554.chunk.js.LICENSE.txt": "/static/js/2.42946554.chunk.js.LICENSE.txt",
+    "static/media/login.css": "/static/media/BG4.05a2c8da.jpg",
+    "static/media/b1.gif": "/static/media/b1.40ffd55d.gif",
+    "static/media/ca1.jpg": "/static/media/ca1.9bf51cee.jpg",
+    "static/media/ca2.jpg": "/static/media/ca2.0728ed22.jpg",
+    "static/media/ca3.jpg": "/static/media/ca3.ac908c8a.jpg",
+    "static/media/covid.png": "/static/media/covid.4dbce25e.png",
+    "static/media/doctor.jpg": "/static/media/doctor.429f43b3.jpg",
+    "static/media/empty-state.svg": "/static/media/empty-state.e9ff8a50.svg",
+    "static/media/patient.jpg": "/static/media/patient.c5cf72ee.jpg",
+    "static/media/pr1.png": "/static/media/pr1.3fd044dc.png",
+    "static/media/pr2.png": "/static/media/pr2.7bca717f.png",
+    "static/media/pr3.png": "/static/media/pr3.8f95c346.png",
+    "static/media/us1.jpg": "/static/media/us1.aabe3e92.jpg",
+    "static/media/us2.jpg": "/static/media/us2.4732c8a8.jpg",
+    "static/media/us3.jpg": "/static/media/us3.2529288a.jpg",
+    "static/media/w1.jpeg": "/static/media/w1.89c69cde.jpeg",
+    "static/media/w2.jpg": "/static/media/w2.0d5142bc.jpg",
+    "static/media/w3.jpg": "/static/media/w3.e4d365d5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00ed32f5.js",
+    "static/css/2.aafb6394.chunk.css",
+    "static/js/2.42946554.chunk.js",
+    "static/css/main.368fc483.chunk.css",
+    "static/js/main.6e470b14.chunk.js"
+  ]
+}

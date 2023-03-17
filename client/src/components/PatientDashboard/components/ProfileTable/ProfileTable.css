@@ -1,0 +1,95 @@
+.current_news {
+  max-width: 70vh;
+  margin: 2%;
+}
+
+/* .checklist_background {
+    position: relative;
+    left: 1.5%;
+    top: 5%;
+    background-color: rgb(251, 211, 136);
+    border: 2px black;
+    max-width: 33vh;
+} */
+
+.checklist_transbox {
+  background-color: aliceblue;
+  opacity: 0.9;
+  margin: 5%;
+  max-width: 33vh;
+}
+
+.outer_box {
+  background: #141e30; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #243b55,
+    #141e30
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #243b55,
+    #141e30
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  min-height: 60vh;
+  border-radius: 2%;
+}
+
+.placeholder {
+  margin: 5%;
+  border: 1px;
+}
+
+.canada_situation {
+  margin: 5%;
+  background-color: aliceblue;
+  border: 1px black;
+  opacity: 0.9;
+}
+
+.canada_situation p {
+  margin: 5%;
+  font-weight: bold;
+  color: black;
+}
+
+.world_situation {
+  margin: 5%;
+  background-color: aliceblue;
+  border: 1px black;
+  opacity: 0.9;
+}
+
+.world_situation p {
+  margin: 5%;
+  font-weight: bold;
+  color: black;
+}
+
+.visit_history {
+  position: absolute;
+  max-width: 50%;
+  right: 10%;
+  background-color: aliceblue;
+  border-radius: 2%;
+  overflow: auto;
+}
+
+.province {
+  position: relative;
+  max-width: 40vh;
+  left: -30px;
+  bottom: -15vh;
+  margin: 5%;
+  background-color: aliceblue;
+  border: 1px black;
+  opacity: 0.9;
+}
+
+.loading {
+  position: relative;
+  text-align: center;
+  color: white;
+  top: 30%;
+}

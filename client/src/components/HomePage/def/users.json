@@ -1,0 +1,51 @@
+{
+    "patients": [{
+        "name": "A",
+        "userId": "100",
+        "password": "1234",
+        "checkList": {
+            "list": [],
+            "date": null
+        },
+        "history": null,
+        "province": "BC"
+        },
+        {"name": "B",
+        "userId": "101",
+        "password": "asdf",
+        "checkList": null,
+        "history": null,
+        "province": "ON"},
+        {"name": "C",
+        "userId": "102",
+        "password": "bbbb",
+        "checkList": null,
+        "history": null,
+        "province": "AB"}],
+
+    "doctors": [
+        {
+        "name": "yyy",
+        "userId": "123",
+        "password": "0000",
+        "watchlist": [{
+            "name": "A",
+            "userId": "100",
+            "checkList": null,
+            "history": null,
+            "province": "BC"
+            },
+            {"name": "B",
+            "userId": "101",
+            "checkList": null,
+            "history": null,
+            "province": "ON"},
+            {"name": "C",
+            "userId": "102",
+            "checkList": null,
+            "history": null,
+            "province": "AB"}]
+        ,
+        "province": "MN"}
+    ]
+}

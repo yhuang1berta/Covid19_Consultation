@@ -1,0 +1,88 @@
+.us1 {
+  background: url(../img/us_01.gif) center/ cover;
+  background-size: 100%;
+  display: flex;
+  height: 650px;
+}
+
+.us2 {
+  background: url(../img/us_02.gif) center/ cover;
+  background-size: 100%;
+  display: flex;
+  height: 650px;
+}
+
+.us3 {
+  background: url(../img/us_03.gif) center/ cover;
+  background-size: 100%;
+  display: flex;
+  height: 650px;
+}
+
+.ca1 {
+  background: url(../img/ca_01.gif) center/ cover;
+  background-size: 100%;
+  display: flex;
+  height: 650px;
+}
+
+.ca2 {
+  background: url(../img/ca_02.gif) center/ cover;
+  background-size: 100%;
+  display: flex;
+  height: 650px;
+}
+
+.ca3 {
+  background: url(../img/ca_03.gif) center/ cover;
+  background-size: 100%;
+  display: flex;
+
+  height: 650px;
+}
+.w1 {
+  background: url(../img/world_01.gif) center/ cover;
+  background-size: 100%;
+  display: flex;
+  height: 650px;
+}
+
+.w2 {
+  background: url(../img/world_02.gif) center/ cover;
+  background-size: 100%;
+  display: flex;
+  height: 650px;
+}
+
+.w3 {
+  background: url(../img/world_03.gif) center/ cover;
+  background-size: 100%;
+  display: flex;
+  height: 650px;
+}
+
+.demo-tabs {
+  background: #9cecfb; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #0052d4,
+    #65c7f7,
+    #9cecfb
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #0052d4,
+    #65c7f7,
+    #9cecfb
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.w {
+  color: white;
+}
+
+.Card {
+  margin: auto;
+  min-width: 600px;
+  display: flex;
+}

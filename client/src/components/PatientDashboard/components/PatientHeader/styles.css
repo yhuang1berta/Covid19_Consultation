@@ -1,0 +1,16 @@
+.headerKeyword {
+    text-align: justify;
+    margin: 60px;
+    margin-top: 30px;
+    position: relative;
+    left: 50;
+}
+
+.logout {
+    position: absolute;
+    right:50px
+}
+
+.loginHeader {
+    width: 100vh;
+}

@@ -1,0 +1,26 @@
+.SearchBar {
+  position: relative;
+  min-width: 70vh;
+  min-height: 10vh;
+  border: 3px black;
+  font-size: 20px;
+}
+
+.SearchBar.label {
+  font-size: large;
+}
+
+.input {
+  min-width: 30vh;
+}
+
+.button {
+  min-width: 5vh;
+  min-height: 1vh;
+  position: relative;
+  margin: 10px;
+}
+
+.watchlist {
+  overflow: auto;
+}

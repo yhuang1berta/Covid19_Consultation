@@ -1,0 +1,130 @@
+.Login {
+  padding: 100px;
+  min-width: 480px;
+  background-color: lightblue;
+  opacity: 0.9;
+  border-radius: 5%;
+}
+
+.Login form {
+  margin: auto;
+  max-width: 500px;
+  min-width: 480px;
+  font-size: 30px;
+}
+
+.entire_background {
+  height: 100vh;
+  background: #43c6ac; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #191654,
+    #43c6ac
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #191654,
+    #43c6ac
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  text-align: center;
+}
+
+.content {
+  position: relative;
+  top: 10vh;
+}
+
+.loginmain {
+  position: relative;
+  background-image: url("../HomePage/img/BG4.jpg");
+  text-align: center;
+  background-attachment: fixed;
+  display: flex;
+}
+
+.triangle {
+  position: fixed;
+  animation: eateat 5s infinite;
+  border-radius: 50%;
+  box-shadow: 50px 50px 0 0 lightblue;
+}
+.triangle.triangle1 {
+  height: 200px;
+  width: 200px;
+  opacity: 0.7;
+}
+.triangle.triangle2 {
+  right: -2%;
+  top: -10%;
+  height: 200px;
+  width: 200px;
+  opacity: 0.2;
+}
+.triangle.triangle3 {
+  height: 200px;
+  width: 200px;
+  opacity: 0.3;
+  left: 2%;
+  bottom: 5%;
+}
+.triangle.triangle4 {
+  height: 200px;
+  width: 200px;
+  opacity: 0.9;
+  right: 27%;
+  top: 70%;
+}
+.triangle.triangle5 {
+  left: 25%;
+  bottom: 25%;
+  height: 200px;
+  width: 200px;
+  opacity: 0.2;
+}
+.triangle.triangle6 {
+  left: 10%;
+  top: 35%;
+  height: 200px;
+  width: 200px;
+  opacity: 0.8;
+}
+.triangle.triangle7 {
+  right: 5%;
+  bottom: 5%;
+  width: 200px;
+  height: 200px;
+  opacity: 0.3;
+}
+
+.triangle.triangle8 {
+  right: 30%;
+  top: 0%;
+  width: 200px;
+  height: 200px;
+  opacity: 0.1;
+}
+
+.logintitle {
+  color: white;
+  font-weight: 1000;
+  font-size: 150px;
+  font-family: "Lucida Console", Monaco, monospace;
+  letter-spacing: 30px;
+  word-spacing: 1.6px;
+  text-decoration: underline solid lightblue;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: uppercase;
+}
+
+@keyframes eateat {
+  0% {
+    transform: translateX(-20px);
+  }
+  50% {
+    transform: rotate(0.5turn);
+  }
+  100% {
+    transform: translateY(50px);
+  }
+}

@@ -1,0 +1,49 @@
+.centered-s {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+}
+
+.wlist {
+  background: white;
+  border-radius: 3%;
+}
+
+.dtable {
+  width: 600px;
+}
+
+.do-bg {
+  background: #e0eafc; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #cfdef3,
+    #e0eafc
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #cfdef3,
+    #e0eafc
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  height: 150vh;
+}
+
+.do-header {
+  background: #43cea2; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #185a9d,
+    #43cea2
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #185a9d,
+    #43cea2
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.overflowSCROLL {
+  overflow: scroll;
+}

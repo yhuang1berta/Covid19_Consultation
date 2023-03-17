@@ -1,0 +1,131 @@
+.hpmaingrid {
+  text-align: center;
+  top: 0;
+  left: 0;
+  display: flex;
+}
+.headerbg {
+  background: #43c6ac; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #191654,
+    #43c6ac
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #191654, #43c6ac);
+}
+.main-img {
+  height: 800px;
+  border-radius: 50%;
+  opacity: 0.6;
+  display: flex;
+}
+
+.num-txt {
+  background: #b2fefa; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #0ed2f7,
+    #b2fefa
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #0ed2f7,
+    #b2fefa
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  text-align: center;
+  margin: auto;
+  opacity: 0.9;
+  display: flex;
+  border-radius: 50%;
+}
+.f35b {
+  font-size: 35px;
+  display: flex;
+  font-weight: bolder;
+  color: black;
+}
+.f35a {
+  font-size: 35px;
+  display: flex;
+  font-weight: bolder;
+  color: white;
+}
+.media-body {
+  display: flex;
+  text-align: center;
+  margin-left: 180px;
+  color: white;
+}
+
+.fa {
+  border-radius: 50;
+}
+
+.jumbotron {
+  opacity: 0.9;
+}
+.numinfo {
+  padding-left: 25%;
+  margin-bottom: 35px;
+  color: white;
+  position: relative;
+  display: block;
+  width: 100%;
+}
+
+.numinfo span {
+  bottom: 10px;
+  color: #cae4ff;
+  display: block;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 20px;
+  left: 0;
+  position: absolute;
+}
+
+.ofinfo {
+  padding-left: 25%;
+  margin-bottom: 35px;
+  color: white;
+  position: relative;
+  display: block;
+  width: 100%;
+}
+
+.ofinfo span {
+  bottom: 5px;
+  color: pink;
+  display: block;
+  font-weight: 400;
+  font-size: 30px;
+  left: 0;
+  position: absolute;
+}
+.bact-img {
+  height: 200px;
+  display: flex;
+  border-radius: 50%;
+}
+
+.endinfo {
+  background-color: white;
+  margin: auto;
+  border-radius: 10px;
+  color: black;
+}
+
+.yellowtext {
+  color: yellow;
+  font-weight: bold;
+}
+
+.lightgreentext {
+  color: lightgreen;
+  font-weight: bold;
+}
+
+.lightbluetext {
+  color: lightblue;
+  font-weight: bold;
+}

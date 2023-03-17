@@ -1,0 +1,48 @@
+.table {
+  position: absolute;
+  text-align: center;
+  left: 15vh;
+  right: 15vh;
+}
+
+.list-header {
+  color: white;
+  font-size: 21px;
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+}
+
+.list-div {
+  background-color: black;
+  height: 40px;
+}
+
+.error {
+  color: red;
+}
+
+.success {
+  color: green;
+}
+
+.user_table {
+  margin: 10px;
+}
+
+.update-news-button {
+  position: absolute;
+  left: 80vh;
+}
+
+.sizez {
+  height: 50px;
+  width: 300px;
+}
+
+.watchlist {
+    position: absolute;
+    float: right;
+    top: 20vh;
+    right: 10vh;
+    margin: 5px;
+}
