@@ -1,6 +1,6 @@
 # Project Name : Covid 19 Consultation
 
-#### The website is : [Covid 19 Consultation](https://protected-journey-54920.herokuapp.com/)
+#### The website is : [Covid 19 Consultation(Depricated)](https://protected-journey-54920.herokuapp.com/)
 
 Covid 19 Consultation app is a social health app that focuses on online chatting between doctors and patient, so patients can be diagnoised online without in-person consultation. The interface is somewhat similar to Facebook messenger, where each patient can see the residency of each doctor available and send message to them to seek professional help.
   
