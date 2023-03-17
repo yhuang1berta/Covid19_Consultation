@@ -16,12 +16,19 @@ git clone https://github.com/csc309-summer-2020/team12.git
 ```
 
 then
+```
+### only view the websites without starting server and database (recommend)
+cd covid19_consultation/client
+npm run build
+npm start
+```
 
 ```
-cd team12
+### type the following code into terminal if wish to access the consultation with server
+cd covid19_consultation
 ### Start the server locally
 node server.js
-### start the client side
+### start the client side 
 cd client
 npm run build
 ```
@@ -48,23 +55,23 @@ This page talks about the number of infected
 You can login to different accounts by entering the following username and password for the pre-set account
 
 #### - for Patient:
-    username: user
+    username: test
 
-    password: user
+    password: test
     
 <img src="./client/public/3.png" />
 
 #### - for Doctor:
-    username: user1
+    username: test
 
-    password: user1
+    password: test
     
 <img src="./client/public/1.png" />
 
 #### - for Admin:
-    username: admin
+    username: test
 
-    password: admin
+    password: test
     
 <img src="./client/public/5.png" />
 
